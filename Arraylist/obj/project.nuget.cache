@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vEA76nNbG8j/WMi7eSlBwJ/QxnNeYINDIwp3IIHfQNIVSWs5Ly2USy4lAZF2Ovzzqbi5GqIwMaYbKkFM6522Eg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FBA\\Desktop\\Arraylist\\Arraylist.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FBA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
