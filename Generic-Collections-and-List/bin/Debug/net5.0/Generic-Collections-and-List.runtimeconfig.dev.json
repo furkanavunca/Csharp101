@@ -1,9 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\FBA\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\FBA\\.nuget\\packages",
-      "C:\\Program Files\\DevExpress 21.2\\Components\\Offline Packages"
-    ]
-  }
-}
