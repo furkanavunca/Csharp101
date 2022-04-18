@@ -1,0 +1,16 @@
+C:\Users\FBA\Desktop\Odev-2\bin\Debug\net5.0\Odev-2.exe
+C:\Users\FBA\Desktop\Odev-2\bin\Debug\net5.0\Odev-2.deps.json
+C:\Users\FBA\Desktop\Odev-2\bin\Debug\net5.0\Odev-2.runtimeconfig.json
+C:\Users\FBA\Desktop\Odev-2\bin\Debug\net5.0\Odev-2.runtimeconfig.dev.json
+C:\Users\FBA\Desktop\Odev-2\bin\Debug\net5.0\Odev-2.dll
+C:\Users\FBA\Desktop\Odev-2\bin\Debug\net5.0\Odev-2.pdb
+C:\Users\FBA\Desktop\Odev-2\obj\Debug\net5.0\Odev-2.csproj.AssemblyReference.cache
+C:\Users\FBA\Desktop\Odev-2\obj\Debug\net5.0\Odev-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FBA\Desktop\Odev-2\obj\Debug\net5.0\Odev-2.AssemblyInfoInputs.cache
+C:\Users\FBA\Desktop\Odev-2\obj\Debug\net5.0\Odev-2.AssemblyInfo.cs
+C:\Users\FBA\Desktop\Odev-2\obj\Debug\net5.0\Odev-2.csproj.CoreCompileInputs.cache
+C:\Users\FBA\Desktop\Odev-2\obj\Debug\net5.0\Odev-2.dll
+C:\Users\FBA\Desktop\Odev-2\obj\Debug\net5.0\refint\Odev-2.dll
+C:\Users\FBA\Desktop\Odev-2\obj\Debug\net5.0\Odev-2.pdb
+C:\Users\FBA\Desktop\Odev-2\obj\Debug\net5.0\Odev-2.genruntimeconfig.cache
+C:\Users\FBA\Desktop\Odev-2\obj\Debug\net5.0\ref\Odev-2.dll
